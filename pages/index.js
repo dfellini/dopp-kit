@@ -118,8 +118,8 @@ export default function Index() {
             </Typography>
             <Typography variant="body1" gutterBottom>
               This app calculates the fabric needed to sew a square-ended dopp
-              kit, and how much to measure up on the folded-up corners (see
-              diagram below).
+              kit, and how much to measure up on the folded-up corners (diagram
+              and full instructions coming soon).
             </Typography>
             <Typography variant="body1" gutterBottom>
               To complete this project, you'll need one piece of fabric (I like
